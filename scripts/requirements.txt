@@ -2,3 +2,4 @@ lcu_driver==2.1.3
 psutil==5.9.2
 PyQt5==5.15.7
 requests==2.23.0
+cx-Freeze==6.12.0
