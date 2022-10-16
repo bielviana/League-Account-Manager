@@ -13,9 +13,21 @@ I decided to develop this app because I was too lazy to copy and paste usernames
 
 1. Copy the **`scripts\build.py`** file to the **`leagueaccountmanager`** folder.
 
-2. Install the necessary libraries with **`pip install -r scripts\requirements.txt`**.
+2. Install the necessary libraries.
+```
+pip install -r scripts\requirements.txt
+```
 
-3. Through the command prompt (or powershell, whatever), go to the **`leagueaccountmanager`** folder and execute the command **`python build.py build`**, for some you will need to use **` python3 build.py build`**.
+3. Through the command prompt (or powershell, whatever), go to the **`leagueaccountmanager`** folder and run the command below to build
+```
+python build.py build
+```
 PS: All assets you add must be listed in the **`files`** variable of the **`build.py`** file
 
 4. Your executable will be in the **`leagueaccountmanager\build`** folder along with the necessary libraries.
+
+## Links
+- **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+- **[Instagram](https://instagram.com)**
+- **[Twitter](https://twitter.com/_katiorro)**
+- **[NexusMods](https://www.nexusmods.com/users/73453593)**
