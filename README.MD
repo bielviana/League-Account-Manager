@@ -2,7 +2,7 @@
 # League Account Manager
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
 
-## What is this
+## What is it?
 Account manager to make life easier for those who have a lot of smurfs in League of Legends.
 
 ## Why did I?
