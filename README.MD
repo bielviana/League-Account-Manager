@@ -15,7 +15,7 @@ I decided to develop this app because I was too lazy to copy and paste usernames
 
 2. Install the necessary libraries.
 ```
-pip install -r scripts\requirements.txt
+pip install -r requirements.txt
 ```
 
 3. Through the command prompt (or powershell, whatever), go to the **`leagueaccountmanager`** folder and run the command below to build
