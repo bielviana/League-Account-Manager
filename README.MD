@@ -12,6 +12,8 @@ I decided to develop this app because I was too lazy to copy and paste usernames
 **First I recommend creating a virtual env to get started.**
 ![blank_space](https://i.imgur.com/tBMC9vs.png)
 ![blank_space](https://i.imgur.com/tBMC9vs.png)
+![blank_space](https://i.imgur.com/tBMC9vs.png)
+![blank_space](https://i.imgur.com/tBMC9vs.png)
 1. Copy the **`scripts\build.py`** file to the **`leagueaccountmanager`** folder.
 ![blank_space](https://i.imgur.com/tBMC9vs.png)
 2. Install the necessary libraries with **`pip install -r scripts\requirements.txt`**.
