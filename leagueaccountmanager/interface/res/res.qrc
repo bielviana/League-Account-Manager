@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>copy.svg</file>
+    <file>add_acc.svg</file>
+    <file>login_acc.svg</file>
+    <file>manage_acc.svg</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>

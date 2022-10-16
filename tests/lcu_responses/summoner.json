@@ -1,0 +1,22 @@
+{
+    "accountId": 2910541488416160,
+    "displayName": "onixiZ",
+    "internalName": "onixiZ",
+    "nameChangeFlag": false,
+    "percentCompleteForNextLevel": 22,
+    "privacy": "PUBLIC",
+    "profileIconId": 5455,
+    "puuid": "510df5e5-c4ec-5c70-941c-6f43acb80cf1",
+    "rerollPoints": {
+        "currentPoints": 500,
+        "maxRolls": 2,
+        "numberOfRolls": 2,
+        "pointsCostToRoll": 250,
+        "pointsToReroll": 0
+    },
+    "summonerId": 2910541488416160,
+    "summonerLevel": 31,
+    "unnamed": false,
+    "xpSinceLastLevel": 607,
+    "xpUntilNextLevel": 2688
+}
