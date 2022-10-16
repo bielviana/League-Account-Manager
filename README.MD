@@ -8,7 +8,7 @@ Account manager to make life easier for those who have a lot of smurfs in League
 ## Why did I?
 I decided to develop this app because I was too lazy to copy and paste usernames and passwords all the time while switching between my lol accounts.
 
-## Build guide
+## Build guide (for devs only)
 **First I recommend creating a virtual env to get started.**
 
 1. Copy the **`scripts\build.py`** file to the **`leagueaccountmanager`** folder.
