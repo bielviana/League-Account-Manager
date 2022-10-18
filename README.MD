@@ -5,7 +5,7 @@
 ## What is it?
 Account manager to make life easier for those who have a lot of smurfs in League of Legends.
 
-## Why did I?
+## Why?
 I decided to develop this app because I was too lazy to copy and paste usernames and passwords all the time while switching between my lol accounts.
 
 ## Build guide (for devs only)
